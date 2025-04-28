@@ -1,0 +1,5 @@
+Jack,25,jack@gmail.com,M001,Roller Coaster
+Sharon,30,sharon@gmail.com,M002,Roller Coaster
+Benny,28,benny@gmail.com,M003,Roller Coaster
+Leo,22,leo@gmail.com,M004,Roller Coaster
+Tom,26,tom@gmail.com,M005,Roller Coaster
